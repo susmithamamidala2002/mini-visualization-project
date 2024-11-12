@@ -1,2 +1,1 @@
-# mini-visualization-project
-visualization 
+Visualizing techniques from begining 
